@@ -1,0 +1,16 @@
+R,00000000,007A6614,8,c:\experiments\memtrack\listing2\main.c:20
+M,007A96A4,8,c:\experiments\memtrack\listing2\main.c:23
+M,007A96EC,10,c:\experiments\memtrack\listing2\main.c:24
+M,007A973C,8,c:\experiments\memtrack\listing2\main.c:23
+M,007A9784,10,c:\experiments\memtrack\listing2\main.c:24
+R,007A6614,007A97D4,16,c:\experiments\memtrack\listing2\main.c:20
+M,007A6614,8,c:\experiments\memtrack\listing2\main.c:23
+M,007A9824,10,c:\experiments\memtrack\listing2\main.c:24
+M,007A9874,8,c:\experiments\memtrack\listing2\main.c:23
+M,007A98BC,10,c:\experiments\memtrack\listing2\main.c:24
+F,007A96EC,c:\experiments\memtrack\listing2\main.c:33
+F,007A96A4,c:\experiments\memtrack\listing2\main.c:34
+F,007A9784,c:\experiments\memtrack\listing2\main.c:33
+F,007A973C,c:\experiments\memtrack\listing2\main.c:34
+F,007A98BC,c:\experiments\memtrack\listing2\main.c:33
+F,007A9874,c:\experiments\memtrack\listing2\main.c:34
